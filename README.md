@@ -33,7 +33,7 @@ The dashboard was built using **Microsoft Excel** to provide an interactive over
 
 ## 📷 Dashboard Preview
 
-![Excel Dashboard](excel_dashboard.png)
+![Excel Dashboard](./excel_dashboard.png)
 
 ---
 
